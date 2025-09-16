@@ -1,6 +1,6 @@
 [
     {
-        "pid": 8888,
+        "pid": "8888",
         "version": "9.2.60",
         "md5": "f6f601cf056773381be2475c096f12bd",
         "url": "https://github.com/lipro-git/matter/raw/master/ota/1460/8888/light-9.2.60.bin",
